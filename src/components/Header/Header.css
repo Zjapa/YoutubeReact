@@ -1,0 +1,17 @@
+header{
+    background-color: #ffffff ;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.404);
+    margin-bottom: 20px;
+}
+
+header img{
+    width: 100px;
+}
+header .container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
